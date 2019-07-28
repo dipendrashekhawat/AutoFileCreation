@@ -1,0 +1,6 @@
+D:\Project\Project\AutoFileCreation\AutoFileCreation\obj\Debug\AutoFileCreation.csprojResolveAssemblyReference.cache
+D:\Project\Project\AutoFileCreation\AutoFileCreation\bin\Debug\AutoFileCreation.exe.config
+D:\Project\Project\AutoFileCreation\AutoFileCreation\bin\Debug\AutoFileCreation.exe
+D:\Project\Project\AutoFileCreation\AutoFileCreation\bin\Debug\AutoFileCreation.pdb
+D:\Project\Project\AutoFileCreation\AutoFileCreation\obj\Debug\AutoFileCreation.exe
+D:\Project\Project\AutoFileCreation\AutoFileCreation\obj\Debug\AutoFileCreation.pdb
